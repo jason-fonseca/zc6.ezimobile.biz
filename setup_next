@@ -1,0 +1,2 @@
+rm -rf public_html/zc_install
+chmod 664 public_html/includes/configure.php
